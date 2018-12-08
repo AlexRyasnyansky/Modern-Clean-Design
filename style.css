@@ -33,7 +33,7 @@ h1 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 80%;
+  width: 1215px;
 }
 .logo,
 .nav ul {
@@ -69,7 +69,7 @@ ul .fw-l {
 }
 .one-sec-lorem,
 .two-sec-lorem {
-  width: 458px;
+  width: 471px;
   padding-left: 180px;
   font-size: 15px;
 }
@@ -83,10 +83,13 @@ ul .fw-l {
   height: 450px;
   width: 100%;
   border-bottom: #f1f4fa 2px solid;
+  display: flex;
+  justify-content: center;
 }
 .one-overlay {
   display: flex;
   justify-content: space-between;
+  width: 1520px;
 }
 p {
   font-size: 15px;
@@ -96,6 +99,7 @@ p {
 }
 .one-sec-lorem {
   border-bottom: 2px solid #f1f4fa;
+  width: 460px;
 }
 .two-sec-lorem {
   margin-top: 30px;
@@ -125,7 +129,6 @@ p {
   position: relative;
   width: 100%;
 }
-
 .main {
   width: 700px;
   display: flex;
@@ -136,14 +139,12 @@ p {
   right: 0;
   top: 0;
 }
-
 .one,
 .two,
 .tree,
 .for {
   border: 1.5px solid #f1f4fa;
 }
-
 .one {
   display: flex;
   min-height: 630px;
@@ -153,7 +154,6 @@ p {
   align-items: center;
   margin-left: 1092px;
 }
-
 .two {
   height: 565px;
   width: 565px;
@@ -162,7 +162,6 @@ p {
   justify-content: center;
   align-items: center;
 }
-
 .tree {
   height: 500px;
   width: 500px;
@@ -171,7 +170,6 @@ p {
   justify-content: center;
   align-items: center;
 }
-
 .for {
   height: 435px;
   width: 435px;
@@ -186,7 +184,7 @@ p {
 }
 .h1-style {
   border-bottom: 1.5px solid #f1f4fa;
-  width: 231px;
+  width: 237px;
   margin: 0 auto;
 }
 .title-content {
