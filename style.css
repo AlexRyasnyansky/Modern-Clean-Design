@@ -290,6 +290,7 @@ p {
   margin-top: 82px;
   width: 100%;
   height: 550px;
+  justify-content: center;
 }
 .section-first {
   width: 700px;
